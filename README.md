@@ -1,5 +1,5 @@
 # Linhas-de-Montagem
-Projeto que Soluciona o problema de encontrar o menor caminho entre duas linhas de montagens uma por algoritmo guloso outra por ptogramação dinâmica
+Projeto que Soluciona o problema de encontrar o menor caminho entre duas linhas de montagens uma por algoritmo guloso outra por programação dinâmica
 
 Possui relatório com resultados e comparações
 
